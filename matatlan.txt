@@ -1,7 +1,7 @@
 # Title: Daves blocklist
 # Description: Blocklist made by LeaksintelMX
 # Last modified: 26 Jan 2026 17:31 UTC
-# Version: 2026.0123.1005
+# Version: 2026.0123.1006
 # Number of entries: 316
 
 0.0.0.0 ad-assets.futurecdn.net
@@ -11,7 +11,6 @@
 0.0.0.0 coccyxwickimp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 010sec.com
-
 0.0.0.0 chs-2026worldcup.com
 0.0.0.0 cht-2026worldcup.com
 0.0.0.0 club-2026worldcup.com
@@ -79,7 +78,6 @@
 0.0.0.0 zhy-2026worldcup.com
 0.0.0.0 zhz-2026worldcup.com
 0.0.0.0 zhzh-2026worldcup.com
-
 0.0.0.0 2026worldcup-cctv.com
 0.0.0.0 2026worldcup-cctv5.com
 0.0.0.0 2026worldcup-iqiyi.com
@@ -120,14 +118,12 @@
 0.0.0.0 worldcupr.com
 0.0.0.0 worldcupw.com
 0.0.0.0 worldcupy.com
-
 0.0.0.0 estafetas.art
 0.0.0.0 estafetas.ink
 0.0.0.0 estafetas.life
 0.0.0.0 estafetas.lol
 0.0.0.0 estafetas.site
 0.0.0.0 estafetas.vip
-
 0.0.0.0 santanderconnectcontactus.com
 0.0.0.0 santanderconnectportal.com
 0.0.0.0 santanderconnectsupportchat.com
@@ -136,9 +132,7 @@
 0.0.0.0 bancosantanderr.com
 0.0.0.0 santanderhotels.com
 0.0.0.0 santanderus.group
-
 0.0.0.0 mercadolibrecompra.com
-
 0.0.0.0 telcel-me.com
 0.0.0.0 telcel26.com
 0.0.0.0 telcelmox.com
@@ -196,7 +190,6 @@
 0.0.0.0 telcelxr-mx.sbs
 0.0.0.0 telcelys-mx.sbs
 0.0.0.0 telcelzo-mx.sbs
-
 0.0.0.0 amazonusa.shop
 0.0.0.0 amazonv3.com
 0.0.0.0 amazoniads.com
