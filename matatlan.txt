@@ -2,7 +2,7 @@
 # Description: Blocklist made by LeaksintelMX
 # Last modified: 23 Jan 2026 22:28 UTC
 # Version: 2026.0123.1001
-# Number of entries: 290555
+# Number of entries: 
 
 0.0.0.0 bancoazteca-dev-pa.com
 0.0.0.0 ltelcel.top
@@ -306,3 +306,48 @@
 0.0.0.0 worldcupw.com
 0.0.0.0 worldcupy.com
 0.0.0.0 estafetas.art
+0.0.0.0 amazonusa.shop
+0.0.0.0 amazonv3.com
+0.0.0.0 amazoniads.com
+0.0.0.0 amazonleomexico.com
+0.0.0.0 bachilleratodgbsepgob.org
+0.0.0.0 siged-sep-gob-mx-documentos.digital
+0.0.0.0 dtliverpool.com
+0.0.0.0 go-liverpool.com
+0.0.0.0 bancamovil-santander.com
+0.0.0.0 aztecadevelopment.com
+0.0.0.0 aztecamonterrey.com
+0.0.0.0 aztecamty.com
+0.0.0.0 aztecanl.com
+0.0.0.0 aztecanuevoleon.com
+0.0.0.0 aztecappsmx.com
+0.0.0.0 telcel-cxs.com
+0.0.0.0 telcel-mx.team
+0.0.0.0 telcelaon.click
+0.0.0.0 telcelata.click
+0.0.0.0 telcelbeo-mx.sbs
+0.0.0.0 telcelcae.click
+0.0.0.0 telceldby-mx.sbs
+0.0.0.0 telcelegu-mx.sbs
+0.0.0.0 telcelf.top
+0.0.0.0 telcelg.top
+0.0.0.0 telcelgmo-mx.sbs
+0.0.0.0 telcelgps-mx.sbs
+0.0.0.0 telcelhjf-mx.sbs
+0.0.0.0 telcelhrl-mx.sbs
+0.0.0.0 telcelijr-mx.sbs
+0.0.0.0 telcelin.life
+0.0.0.0 telcelmrk-mx.sbs
+0.0.0.0 telcelp.top
+0.0.0.0 telcelpnn-mx.sbs
+0.0.0.0 telcelqmv-mx.sbs
+0.0.0.0 telcelqoa-mx.sbs
+0.0.0.0 telcelr.top
+0.0.0.0 telcelrpn-mx.sbs
+0.0.0.0 telcels.top
+0.0.0.0 telceltlp-mx.sbs
+0.0.0.0 telceluck-mx.sbs
+0.0.0.0 telceluus-mx.sbs
+0.0.0.0 telcelwnu-mx.sbs
+0.0.0.0 telcelxkp-mx.sbs
+0.0.0.0 telcelydw-mx.sbs
