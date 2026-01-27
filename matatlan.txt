@@ -1,8 +1,8 @@
 # Title: Daves blocklist
 # Description: Blocklist made by LeaksintelMX
 # Last modified: 27 Jan 2026 17:45 UTC
-# Version: 2026.0123.1007
-# Number of entries: 340
+# Version: 2026.0123.1008
+# Number of entries: 254
 
 0.0.0.0 ad-assets.futurecdn.net
 0.0.0.0 ck.getcookiestxt.com
