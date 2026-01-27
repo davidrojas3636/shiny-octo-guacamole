@@ -1,8 +1,8 @@
 # Title: Daves blocklist
 # Description: Blocklist made by LeaksintelMX
-# Last modified: 26 Jan 2026 17:31 UTC
-# Version: 2026.0123.1006
-# Number of entries: 316
+# Last modified: 27 Jan 2026 17:45 UTC
+# Version: 2026.0123.1007
+# Number of entries: 340
 
 0.0.0.0 ad-assets.futurecdn.net
 0.0.0.0 ck.getcookiestxt.com
@@ -234,3 +234,27 @@
 0.0.0.0 telcelwnu-mx.sbs
 0.0.0.0 telcelxkp-mx.sbs
 0.0.0.0 telcelydw-mx.sbs
+0.0.0.0 poderjudicial-gtogobmx.org
+0.0.0.0 facturaelectronica-satgob.com
+0.0.0.0 worldcup-jersey.com
+0.0.0.0 worldcup2026.ink
+0.0.0.0 worldcup26meme.com
+0.0.0.0 worldcupfacts.info
+0.0.0.0 worldcupfan.org
+0.0.0.0 worldcupfanpage.org
+0.0.0.0 worldcupkc.guide
+0.0.0.0 worldcuplocalkc.com
+0.0.0.0 worldcupvisibility.com
+0.0.0.0 26worldcup.org
+0.0.0.0 walmart-ltd.top
+0.0.0.0 telcelqls.top
+0.0.0.0 telceltelcel.pics
+0.0.0.0 santandersecurity.com
+0.0.0.0 mercadolibre-ar.live
+0.0.0.0 bancosantanderinfo.org
+0.0.0.0 amazon-space.com
+0.0.0.0 amazon80.com
+0.0.0.0 amazon85.com
+0.0.0.0 amazon87.com
+0.0.0.0 amazon89.com
+0.0.0.0 amazon90.com
